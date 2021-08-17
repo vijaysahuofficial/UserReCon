@@ -1,10 +1,11 @@
 links = {
     'instagram' :'https://www.instagram.com/{}',
     'facebook'  :'https://www.facebook.com/{}',
+    'facebook Group' : 'https://www.facebook.com/groups/{}',
     'twitter'   :'https://www.twitter.com/{}',
     'youtube'   :'https://www.youtube.com/{}',
     'blogger'   :'https://{}.blogspot.com',
-    'reddit'    :'https://www.reddit.com/user/{}',
+    'reddit'    :'https://reddit.com/user/{}',
     'pinterest' :'https://www.pinterest.com/{}',
     'github'    :'https://www.github.com/{}',
     'tumblr'    :'https://{}.tumblr.com',
