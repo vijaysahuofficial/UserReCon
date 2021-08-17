@@ -13,7 +13,6 @@ links = {
     "Asciinema": "https://asciinema.org/~{}",
     "Ask Fedora": "https://ask.fedoraproject.org/u/{}",
     "AskFM": "https://ask.fm/{}",
-    "Atom Discussions": "https://discuss.atom.io/u/{}/summary",
     "Audiojungle": "https://audiojungle.net/user/{}",
     "Avizo": "https://www.avizo.cz/{}/",
     "BLIP.fm": "https://blip.fm/{}",
