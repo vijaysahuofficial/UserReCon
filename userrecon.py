@@ -46,7 +46,10 @@ class ReCon:
                 print(failed + self.site_name)
         except requests.exceptions.ReadTimeout:
                 print(failed + self.site_name + ' : Request timed out')
-for i in socialLinks.links:
-    ReCon(i, socialLinks.links[i], username, outputFolder).find_account()
 
-print('\n\n\nThanks for using UserReCon')
+try:
+    for i in socialLinks.links:
+        ReCon(i, socialLinks.links[i], username, outputFolder).find_account()
+except KeyboardInterrupt:
+    print(Fore.RED + "Pressed CTRL + C\nBYE")
+print(Fore.LIGHTCYAN_EX + '\n\n\nThanks for using UserReCon')
