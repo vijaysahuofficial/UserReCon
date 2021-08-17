@@ -1,8 +1,8 @@
 # UserReCon
 
-<h2>Installtion and Usage</h2>
+<h2>Installation and Usage</h2>
 
-This is a simple Reconnaissance tool to find usernames across tons of social networking sites.
+This is a simple username recognition tool. It can search a username from different social media platforms with the 
 <br>
 # Linux
 <pre>git clone https://github.com/vijaysahuofficial/UserReCon.git</pre> <br>
