@@ -166,7 +166,7 @@ links = {
     "Rate Your Music": "https://rateyourmusic.com/~{}/",
     "Redbubble": "https://www.redbubble.com/people/{}/",
     "Reddit": "https://www.reddit.com/u/{}/",
-    "Reddit Community": "https://www.reddit.com/r/{}/"
+    "Reddit Community": "https://www.reddit.com/r/{}/",
     "Repl.it": "https://repl.it/@{}/",
     "ResearchGate": "https://www.researchgate.net/profile/{}/",
     "ReverbNation": "https://www.reverbnation.com/{}/",
