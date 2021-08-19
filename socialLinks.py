@@ -6,7 +6,6 @@ links = {
     "Academia.edu": "https://independent.academia.edu/{}",
     "Alik.cz": "https://www.alik.cz/u/{}",
     "AllTrails": "https://www.alltrails.com/members/{}",
-    "Anobii": "https://www.anobii.com/{}/profile",
     "Apple Discussions": "https://discussions.apple.com/profile/{}",
     "Archive.org": "https://archive.org/details/@{}",
     "Asciinema": "https://asciinema.org/~{}",
