@@ -102,6 +102,7 @@ links = {
     "IFTTT": "https://www.ifttt.com/p/{}",
     "ImgUp.cz": "https://imgup.cz/{}",
     "Imgur": "https://imgur.com/user/{}",
+    "Instagram": "https://instagram.com/{}",
     "Instructables": "https://www.instructables.com/member/{}",
     "Issuu": "https://issuu.com/{}",
     "Itch.io": "https://{}.itch.io/",
