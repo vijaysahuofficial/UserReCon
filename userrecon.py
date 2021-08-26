@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import random
 import pyfiglet
-import socialLinks
+import resources.socialLinks
 from colorama import init, Fore
 import requests
 import os
@@ -62,8 +62,8 @@ class ReCon:
                 print(failed + self.site_name + ' : Request timed out')
 
 try:
-    for i in socialLinks.links:
-        ReCon(i, socialLinks.links[i], username, outputFolder, headers).find_account()
+    for i in resources.socialLinks.links:
+        ReCon(i, resources.socialLinks.links[i], username, outputFolder, headers).find_account()
 except KeyboardInterrupt:
     print(Fore.RED + "Pressed CTRL + C\nBYE")
 print(Fore.LIGHTCYAN_EX + '\n\n\nThanks for using UserReCon')
