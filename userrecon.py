@@ -1,11 +1,13 @@
 #!/usr/bin/python
+import random
 import pyfiglet
 import socialLinks
 from colorama import init, Fore
 import requests
 import os
-from fake_useragent import UserAgent
+from resources.headers import headers
 import datetime
+
 init()
 print(Fore.RED + pyfiglet.figlet_format("User ReCon"))
 created_by = '''Vijay Sahu''' 
@@ -13,8 +15,6 @@ banner = pyfiglet.figlet_format(created_by, font='small')
 print (Fore.GREEN + "Created By:\n", created_by + '\nhttps://www.github.com/vijaysahuofficial')
 failed = Fore.RED +' [-] Not Found : '
 found = Fore.GREEN + '[+] Found : '
-userAgent = UserAgent()
-headers = {'User-Agent': userAgent.random}
 outputFolder = 'output'
 x = datetime.datetime.now()
 username = str(input('Enter username >>> '))
@@ -37,7 +37,7 @@ class ReCon:
         self.social_url = social_url
         self.name = username
         self.output = output
-        self.headers = headers
+        self.headers = {'User-Agent': f'{random.choice(headers)}'}
     def find_account(self):
         try:
             try:
