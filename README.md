@@ -3,7 +3,9 @@
 ![OS](https://img.shields.io/badge/OS-GNU%2FLinux-red?style=flat&logo=linux)
 ![GitHub](https://img.shields.io/github/license/vijaysahuofficial/UserReCon?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/vijaysahuofficial/UserReCon)
+[![GitHub forks](https://img.shields.io/github/forks/vijaysahuofficial/UserReCon)](https://github.com/vijaysahuofficial/UserReCon/network)
 ![Lines of code](https://img.shields.io/tokei/lines/github/vijaysahuofficial/UserReCon)
+[![GitHub stars](https://img.shields.io/github/stars/vijaysahuofficial/UserReCon)](https://github.com/vijaysahuofficial/UserReCon/stargazers)
 
 This is a simple username recognition tool. It can search a username from over 200 different social media platforms.
 
