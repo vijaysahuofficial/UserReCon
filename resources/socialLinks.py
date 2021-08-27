@@ -7,7 +7,6 @@ links = {
     "Alik.cz": "https://www.alik.cz/u/{}",
     "AllTrails": "https://www.alltrails.com/members/{}",
     "Apple Discussions": "https://discussions.apple.com/profile/{}",
-    "Archive.org": "https://archive.org/details/@{}",
     "Asciinema": "https://asciinema.org/~{}",
     "Ask Fedora": "https://ask.fedoraproject.org/u/{}",
     "AskFM": "https://ask.fm/{}",
