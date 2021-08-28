@@ -5,7 +5,6 @@ links = {
     "About.me": "https://about.me/{}",
     "Academia.edu": "https://independent.academia.edu/{}",
     "Alik.cz": "https://www.alik.cz/u/{}",
-    "AllTrails": "https://www.alltrails.com/members/{}",
     "Apple Discussions": "https://discussions.apple.com/profile/{}",
     "Asciinema": "https://asciinema.org/~{}",
     "Ask Fedora": "https://ask.fedoraproject.org/u/{}",
