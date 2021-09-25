@@ -128,6 +128,7 @@ links = {
     "Quora": "https://www.quora.com/profile/{}",
     "Raidforums": "https://raidforums.com/User-{}",
     "Rajce.net": "https://{}.rajce.idnes.cz/",
+    "RapidAPI": "https://rapidapi.com/users/{}",
     "Rate Your Music": "https://rateyourmusic.com/~{}",
     "Redbubble": "https://www.redbubble.com/people/{}",
     "Repl.it": "https://repl.it/@{}",
